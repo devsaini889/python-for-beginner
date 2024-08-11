@@ -1,5 +1,5 @@
+#Day 3
 # At first we see the square root by using arithematic operatora
-
 a=9
 b=a**(1/2)
 print(b)
