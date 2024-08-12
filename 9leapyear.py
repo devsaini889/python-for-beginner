@@ -1,4 +1,4 @@
-
+# A simple progra to find the number is leap year or not 
 
 year = int(input("Enter the year :"))
 
