@@ -1,3 +1,4 @@
+# A simple program to do the sum of natural number in an interval 
 
 num = int(input("Enter the number:"))
 
