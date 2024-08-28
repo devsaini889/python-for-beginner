@@ -1,5 +1,5 @@
 
-
+# A simple program to change a decimal to binary value using recursions
 
 def binary(n):
     if n>1:
