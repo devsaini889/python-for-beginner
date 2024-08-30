@@ -1,4 +1,4 @@
-# A simple program to remove the punctuation in a string 
+A simple program to remove the punctuation in a string 
 
 punc = '''!@#$&*/.,';`~'''
 
