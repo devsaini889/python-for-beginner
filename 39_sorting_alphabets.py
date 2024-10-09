@@ -2,6 +2,8 @@
 
 a = "Harry Potter and the Goblet of Fire"
 
+# We have to sort the string in list to move forward
+
 w= a.split()
 print(w)
 
