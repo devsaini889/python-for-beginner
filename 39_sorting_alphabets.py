@@ -7,6 +7,8 @@ a = "Harry Potter and the Goblet of Fire"
 w= a.split()
 print(w)
 
+# Now iterste them one by one
+
 for i in range (len(w)):
     w[i]=w[i].lower()
 
